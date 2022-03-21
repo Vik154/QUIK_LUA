@@ -1,2 +1,3 @@
 # hello-world
-Test
+my first repository on GitHub
+I love :coffe: :bird: and :man_dancing:.
