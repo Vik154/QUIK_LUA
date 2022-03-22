@@ -1,5 +1,3 @@
-# hello-world
+# LUA QUIK 
 
-my first repository on GitHub
-
-I love :coffee: :bird: and :man_dancing:.
+Lua скрипты / алгоритмы / роботы
